@@ -2,7 +2,7 @@ from random import *
 starter = [
     "Du er en ",
     "Du er en jæla ",
-    "Du e så ekstremt ",
+    "Du er en så ekstremt ",
     "Trynet ditt ligner en ",
     "Du minner meg om en "
 ]
@@ -12,8 +12,9 @@ middle = [
     "fjompenisse",
     "klump",
     "knullt kebab",
-    "påkjørt nakenrotter",
-    "misbrukt bikkje"
+    "påkjørt nakenrotte",
+    "misbrukt bikkje",
+    "søtnos"
 ]
 
 ending = [
