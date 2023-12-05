@@ -4,7 +4,8 @@ starter = [
     "Du er en jæla ",
     "Du er en så ekstremt ",
     "Trynet ditt ligner en ",
-    "Du minner meg om en "
+    "Du minner meg om en ",
+    "Jeg elsker"
 ]
 
 middle = [
@@ -14,14 +15,16 @@ middle = [
     "knullt kebab",
     "påkjørt nakenrotte",
     "misbrukt bikkje",
-    "søtnos"
+    "søtnos",
+    "nissemann"
 ]
 
 ending = [
     ", og du fortjener det.",
     ", og moren din hater deg",
     ", og det er ingenting du kan gjøre med det.",
-    ", din jæla taper"
+    ", din jæla taper",
+    ", og jeg har vondt i magen."
 ]
 
 def printDiss():
